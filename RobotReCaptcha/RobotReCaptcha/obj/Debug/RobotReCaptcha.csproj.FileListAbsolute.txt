@@ -1,0 +1,11 @@
+c:\users\u6045623\documents\visual studio 2017\Projects\RobotReCaptcha\RobotReCaptcha\obj\Debug\RobotReCaptcha.csprojResolveAssemblyReference.cache
+c:\users\u6045623\documents\visual studio 2017\Projects\RobotReCaptcha\RobotReCaptcha\obj\Debug\RobotReCaptcha.csproj.CoreCompileInputs.cache
+C:\Users\U6045623\documents\visual studio 2017\Projects\RobotReCaptcha\RobotReCaptcha\bin\Debug\RobotReCaptcha.exe.config
+C:\Users\U6045623\documents\visual studio 2017\Projects\RobotReCaptcha\RobotReCaptcha\bin\Debug\RobotReCaptcha.exe
+C:\Users\U6045623\documents\visual studio 2017\Projects\RobotReCaptcha\RobotReCaptcha\bin\Debug\RobotReCaptcha.pdb
+C:\Users\U6045623\documents\visual studio 2017\Projects\RobotReCaptcha\RobotReCaptcha\bin\Debug\NAudio.dll
+C:\Users\U6045623\documents\visual studio 2017\Projects\RobotReCaptcha\RobotReCaptcha\bin\Debug\Newtonsoft.Json.dll
+C:\Users\U6045623\documents\visual studio 2017\Projects\RobotReCaptcha\RobotReCaptcha\bin\Debug\NAudio.xml
+C:\Users\U6045623\documents\visual studio 2017\Projects\RobotReCaptcha\RobotReCaptcha\bin\Debug\Newtonsoft.Json.xml
+C:\Users\U6045623\documents\visual studio 2017\Projects\RobotReCaptcha\RobotReCaptcha\obj\Debug\RobotReCaptcha.exe
+C:\Users\U6045623\documents\visual studio 2017\Projects\RobotReCaptcha\RobotReCaptcha\obj\Debug\RobotReCaptcha.pdb

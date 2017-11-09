@@ -1,4 +1,4 @@
-# RobotReCaptcha
+# ByPass reCaptcha, RobotReCaptcha
 ByPass reCaptcha
 
 //Geral:
